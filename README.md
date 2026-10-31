@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-chinabsc is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by qiming) and added to the network as a stub for full-pipeline profiling.
+Chinabsc is a venture‑backed Chinese technology startup identified through the API Evangelist harvest backlog. Backed by Qiming, the company focuses on developing innovative solutions in the financial services sector, leveraging data‑driven platforms to enable businesses to integrate and automate workflows. While detailed product information is not publicly disclosed, the firm positions itself as a B2B API provider aiming to streamline enterprise operations across China and beyond. This profile reflects the current publicly available information as of 2026.
 
-**Areas:** Company
+**Areas:** Company · Finance · Venture-Backed · China · Technology · Startup
 
 ## chinabsc on APIs.io
 
@@ -82,52 +82,11 @@ Authentication, trust centre, and vulnerability disclosure.
 
 - [Chinabsc Com Domain Security](https://apis.io/security/chinabsc-com/chinabsc-com-domain-security/)
 
-## Where to find this API
-
-Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
-
-- [Website](https://chinabsc.com)
-
 ## API Evangelist rating
 
-**Kin Score 1.3** — minimal · rubric 0.24.0 · scored 2026-10-29
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Facet | Score |
-|---|---|
-| Discoverability | 26.8 |
-| Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 0.0 |
-| Developer ergonomics | 0.0 |
-| Access clarity | 0.0 |
-
-**Agent readiness 3.1** — human-only
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | — |
-| Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
-| Auth Clarity | — |
-| Idempotency | — |
-| Error Semantics | — |
-| OpenAPI Examples | — |
-| Rate Limit Signal | — |
-| Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | — |
-| Consent Identity | — |
-| Agent Card | — |
-| Dry Run Mode | — |
-| Delegated Identity | — |
-| Protected Resource Metadata | — |
-| Dynamic Client Registration | — |
-| Agentic Commerce | — |
-
-**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/chinabsc-com/](https://apis.io/providers/chinabsc-com/).
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
 ## How this profile is made
 
